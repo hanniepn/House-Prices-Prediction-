@@ -6,4 +6,6 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
 
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this project is to predict the final price of each home.
 
-Goal: It is a job to predict the sales price for each house. For each Id in the test set, I will predict the value of the SalePrice variable.
+## Goal 
+
+It is a job to predict the sales price for each house. For each Id in the test set, I will predict the value of the SalePrice variable.
